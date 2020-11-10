@@ -7,3 +7,5 @@ npx react-native run-android
 
 npm i react-native-vector-icons
 react-native link react-native-vector-icons
+
+npm i uuid-random
